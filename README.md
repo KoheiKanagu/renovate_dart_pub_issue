@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# renovate_dart_pub_issue
+
+for https://github.com/renovatebot/renovate/discussions/26657
